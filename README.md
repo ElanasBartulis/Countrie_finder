@@ -1,6 +1,6 @@
 # Rest API
 
-## LT
+### LT
 Tai yra mano antrasis projektas iš BIT kursų, kuriame daugiau dėmesio skyrėme **JavaScript** programavimui. Pagrindinė užduotis buvo gauti informaciją iš [REST Countries API](https://restcountries.com/) ir ją dinamiškai atvaizduoti mūsų svetainėje.
 
 ## Įgytos žinios
@@ -11,7 +11,7 @@ Tai yra mano antrasis projektas iš BIT kursų, kuriame daugiau dėmesio skyrėm
 - Sustiprintos **Git** komandų ir versijų valdymo žinios.
 
 ---
-## EN
+### EN
 This is my second project from the BIT courses, where we focused more on **JavaScript** programming. The main task was to fetch information from the [REST Countries API](https://restcountries.com/) and dynamically display it on our website.
 
 ## Skills Gained
