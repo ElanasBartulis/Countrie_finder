@@ -60,7 +60,3 @@ The project demonstrates practical implementation of modern web development conc
 Here’s a small demo showing of this project :
 
 ![Demo GIF](./gif/countrie-finder.gif)
-
-```
-
-```
