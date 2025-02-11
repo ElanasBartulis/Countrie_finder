@@ -1,33 +1,66 @@
-# 🖥️ **Second Project**
+# 🌎 Country Information Website
 
----
+## Overview
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" alt="LT Flag" width="30">
+Country Information Website is a dynamic web application that provides comprehensive information about countries worldwide. Built using vanilla JavaScript, HTML, and CSS, this application fetches real-time data from the REST Countries API to deliver up-to-date information about different nations.
 
+## Features
 
-**Tai yra mano antrasis projektas iš BIT kursų, kuriame daugiau dėmesio skyrėme **JavaScript** programavimui.** 
-Pagrindinė užduotis buvo gauti informaciją iš [REST Countries API](https://restcountries.com/) ir ją dinamiškai atvaizduoti mūsų svetainėje.
+### 🔍 Search Functionality
 
-### Įgytos žinios
+- **Country names**  
+- **Currencies**  
+- **Capital cities**
+- **Languages**
+- **Population statistics**
+- **Currency details**
+- **Capital city**
+- **Local time**
+- **Official languages**
+- Real-time search suggestions with dynamic dropdown
+- Instant results display
 
-- API duomenų gavimas ir valdymas realiuose projektuose.
-- Praktinė **JavaScript** patirtis, įskaitant `fetch` funkciją ir pažadų (**promises**) naudojimą.
-- Pagerėjusi problemų sprendimo ir derinimo įgūdžių kokybė.
-- Sustiprintos **Git** komandų ir versijų valdymo žinios.
+## 🛠 Technologies Used  
 
----
+- **HTML5** → Structure and content  
+- **CSS3** → Styling and animations  
+- **JavaScript** → Core functionality and DOM manipulation  
+- **REST Countries API** → Country data source  
+- **Bootstrap Icons** → UI icons  
 
-<img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="EN Flag" width="30">
+## 🚀 Prerequisites
 
+To run this application locally, follow these steps:
 
-**This is my second project from the BIT courses, where we focused more on JavaScript programming.** 
-The main task was to fetch information from the [REST Countries API](https://restcountries.com/) and dynamically display it on our website.
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/ElanasBartulis/Countrie_finder.git
+   ```
 
-### Skills Gained
+2. **Install Live Server Extension**  
+   Ensure you have the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension installed in VS Code.
 
-- Fetching and managing API data in real-world projects.
-- Practical experience with **JavaScript**, including using the `fetch` function and handling **promises**.
-- Improved problem-solving and debugging skills.
-- Strengthened knowledge of **Git** commands and version control.
+3. **Start the Live Server**  
+   Click **"Go Live"** in the bottom right corner of VS Code to launch the project.
 
----
+## 📚 Conclusion
+
+This Country Information Website is my second project that represents a significant step in my web development journey, particularly in working with APIs and creating dynamic user interfaces. Through this project, I gained valuable experience with:
+
+- ✅ API integration and data fetching 
+- ✅ Asynchronous JavaScript programming  
+- ✅ DOM manipulation  
+- ✅ Responsive design implementation
+- ✅ Search functionality optimization 
+
+The project demonstrates practical implementation of modern web development concepts while providing a useful tool for accessing country information.
+
+## 🎬 Demo  
+
+Here’s a small demo showing of this project :
+
+![Demo GIF](./gif/countrie-finder.gif)
+
+```
+
+```
